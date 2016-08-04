@@ -1,0 +1,85 @@
+_repo: Democracy-in-America---Volume-2_816
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Reeve, Henry
+    alias: Reeves, Henry
+    birthdate: 1813
+    deathdate: 1895
+    gutenberg_agent_id: '7359'
+    url: http://www.gutenberg.org/2009/agents/7359
+creator:
+  author:
+    agent_name: Tocqueville, Alexis de
+    aliases:
+    - Tocqueville, Alexis Charles Henri Maurice Clerel de
+    - De Tocqueville, Alexis
+    - Tocqueville, Alexis Charles Henri Maurice Clérel de
+    - Toqueville, Alexis de
+    birthdate: 1805
+    deathdate: 1859
+    gutenberg_agent_id: '424'
+    url: http://www.gutenberg.org/2009/agents/424
+    wikipedia: http://en.wikipedia.org/wiki/Alexis_de_Tocqueville
+description: "De La Démocratie en Amérique (French pronunciation: ​[dəla demɔkʁasi\
+  \ ɑ̃n‿ameˈʁik]; published in two volumes, the first in 1835 and the second in 1840)\
+  \ is a classic French text by Alexis de Tocqueville. Its title translates as On\
+  \ Democracy in America, but English translations are usually simply entitled Democracy\
+  \ in America. In the book, Tocqueville examines the democratic revolution that he\
+  \ believed had been occurring over the previous seven hundred years.\nIn 1831, Alexis\
+  \ de Tocqueville and Gustave de Beaumont were sent by the French government to study\
+  \ the American prison system. In his later letters Tocqueville indicates that he\
+  \ and Beaumont used their official business as a pretext to study American society\
+  \ instead. They arrived in New York City in May of that year and spent nine months\
+  \ traveling the United States, studying the prisons, and collecting information\
+  \ on American society, including its religious, political, and economic character.\
+  \ The two also briefly visited Canada, spending a few days in the summer of 1831\
+  \ in what was then Lower Canada (modern-day Quebec) and Upper Canada (modern-day\
+  \ Ontario).\nAfter they returned to France in February 1832, Tocqueville and Beaumont\
+  \ submitted their report, Du système pénitentiaire aux États-Unis et de son application\
+  \ en France, in 1833. When the first edition was published, Beaumont, sympathetic\
+  \ to social justice, was working on another book, Marie, ou, L'esclavage aux Etats-Unis\
+  \ (two volumes, 1835), a social critique and novel describing the separation of\
+  \ races in a moral society and the conditions of slaves in the United States. Before\
+  \ finishing Democracy in America, Tocqueville believed that Beaumont's study of\
+  \ the United States would prove more comprehensive and penetrating.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2006-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '816'
+  wikidata: Q784882
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Democracy -- United States'
+- !lcc 'JK'
+- !lcsh 'United States -- Politics and government'
+- !lcsh 'United States -- Social conditions'
+- GITenberg
+title: Democracy in America — Volume 2
+url: http://www.gutenberg.org/ebooks/816
+wikipedia:
+- https://nl.wikipedia.org/wiki/De_la_d%C3%A9mocratie_en_Am%C3%A9rique
+- https://fr.wikipedia.org/wiki/De_la_d%C3%A9mocratie_en_Am%C3%A9rique
+- https://he.wikiquote.org/wiki/%D7%94%D7%93%D7%9E%D7%95%D7%A7%D7%A8%D7%98%D7%99%D7%94_%D7%91%D7%90%D7%9E%D7%A8%D7%99%D7%A7%D7%94
+- https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AE%E6%B0%91%E4%B8%BB%E6%94%BF%E6%B2%BB
+- https://pt.wikipedia.org/wiki/Da_Democracia_na_Am%C3%A9rica
+- https://pl.wikipedia.org/wiki/O_demokracji_w_Ameryce
+- https://fa.wikipedia.org/wiki/%D8%AF%D9%85%DA%A9%D8%B1%D8%A7%D8%B3%DB%8C_%D8%AF%D8%B1_%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7
+- https://pl.wikiquote.org/wiki/O_demokracji_w_Ameryce
+- https://en.wikipedia.org/wiki/Democracy_in_America
+- https://es.wikipedia.org/wiki/La_democracia_en_Am%C3%A9rica
+- https://hu.wikipedia.org/wiki/Az_amerikai_demokr%C3%A1cia
+- https://bg.wikipedia.org/wiki/%D0%94%D0%B5%D0%BC%D0%BE%D0%BA%D1%80%D0%B0%D1%86%D0%B8%D1%8F%D1%82%D0%B0_%D0%B2_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0
+- https://it.wikipedia.org/wiki/La_democrazia_in_America
+- https://ru.wikiquote.org/wiki/%D0%94%D0%B5%D0%BC%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F_%D0%B2_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B5
+- https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BC%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F_%D0%B2_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B5
+- https://zh.wikipedia.org/wiki/%E6%B0%91%E4%B8%BB%E5%9C%A8%E7%BE%8E%E5%9C%8B
+- https://el.wikipedia.org/wiki/%CE%97_%CE%94%CE%B7%CE%BC%CE%BF%CE%BA%CF%81%CE%B1%CF%84%CE%AF%CE%B1_%CF%83%CF%84%CE%B7%CE%BD_%CE%91%CE%BC%CE%B5%CF%81%CE%B9%CE%BA%CE%AE
+- https://ca.wikipedia.org/wiki/La_democr%C3%A0cia_a_Am%C3%A8rica
+- https://he.wikipedia.org/wiki/%D7%94%D7%93%D7%9E%D7%95%D7%A7%D7%A8%D7%98%D7%99%D7%94_%D7%91%D7%90%D7%9E%D7%A8%D7%99%D7%A7%D7%94
+- https://ko.wikipedia.org/wiki/%EB%AF%B8%EA%B5%AD%EC%9D%98_%EB%AF%BC%EC%A3%BC%EC%A3%BC%EC%9D%98
+- https://fr.wikisource.org/wiki/De_la_d%C3%A9mocratie_en_Am%C3%A9rique
